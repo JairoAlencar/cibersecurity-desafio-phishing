@@ -18,4 +18,7 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Imagem do WhatsApp de 2024-12-29 à(s) 22 17 25_f788a6aa](https://github.com/user-attachments/assets/066bbe1a-6472-466b-814b-bb7463568e40)
+
+
+Resultado gerado após uma clonagem da página de login do github, ao ser inserido usuário e senha a informação é capturada e armazeada
